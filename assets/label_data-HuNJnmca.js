@@ -1,0 +1,1 @@
+import{s as t}from"./index-Dy_dBH2U.js";const e=t("label_date",{state:()=>({imageData:null,newImageData:null,resultCode:null,imageWidth:80,colorNum:3,colorDetail:100,transMode:0,transModeList:["关闭","自动","指定颜色"],transColor:0,imageColors:[],activeColor:15,colorList:[]}),actions:{update(){this.count++}}});export{e as u};
