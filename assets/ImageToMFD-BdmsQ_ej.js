@@ -1,0 +1,1 @@
+import{t as a}from"./Topbar-qncckxrv.js";import{c as o,d as s,a as r,o as l}from"./index-CxuCHR1b.js";const i={class:"imagetomfd-page"},p={__name:"ImageToMFD",setup(n){return(t,e)=>(l(),o("div",i,[s(a,{title:t.$t("imageToMFD.title")},null,8,["title"]),e[0]||(e[0]=r("div",{class:"container"},null,-1))]))}};export{p as default};
